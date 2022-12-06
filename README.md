@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Overs.app**
 
-- 👩🏻‍💻 Self-learnt developer 
+- 👩🏻‍💻 Self-taught developer 
 
 - 📷 I regularly post my captures on [My photoblog](https://anushanandi.com/)
 
@@ -21,7 +21,7 @@
 
 - 🦋 I love to watch anime in my free time
 
-- 🎭 I am a part timr community organizer
+- 🎭 I am a part-time community organizer
 
 - ⚡ Fun fact *I love cats*🐈
 

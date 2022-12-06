@@ -13,6 +13,8 @@
 
 - 🎼 I love playing my Veena, an indian instrument!
 
+- ✈️ I'm a traveller
+
 - 📖 Knowlegde is power, so I have a habit of reading books
 
 - 🏸 Let's be outdoors for sometime

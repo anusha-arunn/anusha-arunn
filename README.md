@@ -1,8 +1,6 @@
 <h2 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">, I'm Anusha 👩🏻‍💻</h2>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on **Overs.app**
-
 - 👩🏻‍💻 Self-taught developer 
 
 - 📷 I regularly post my captures on [My photoblog](https://anushanandi.com/)

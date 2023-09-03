@@ -5,8 +5,6 @@
 
 - 📷 I regularly post my captures on [My photoblog](https://anushanandi.com/)
 
-- 🍽️ I also post photos of what I cook on my [Instagram page](https://www.instagram.com/tongue._.teaser/)
-
 - 📫 How to reach me **anusha.arunn@gmail.com**
 
 <!---
